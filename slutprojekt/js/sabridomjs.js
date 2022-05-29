@@ -1,1 +1,0 @@
-function myFunction(e){var t=document.getElementById("expandedImg"),n=document.getElementById("imgtext");t.src=e.src,n.innerHTML=e.alt,t.parentElement.style.display="block"}
